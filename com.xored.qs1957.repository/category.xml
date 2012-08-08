@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+
+  <feature url="features/com.xored.qs1957_1.0.0.qualifier.jar" id="com.xored.qs1957" version="1.0.0.qualifier">
+    <category name="q7.views"/>
+  </feature>
+
+  <category-def name="q7.views" label="Q7 Views"/>
+</site>

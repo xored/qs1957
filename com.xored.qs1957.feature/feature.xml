@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.xored.qs1957"
+      label="Feature for QS-1957 view"
+      version="1.0.0.qualifier"
+      provider-name="xored Software, Inc.">
+
+   <description>
+      Feature containing view to reproduce QS-1957
+   </description>
+
+   <copyright>
+      xored Software, Inc. 2012
+   </copyright>
+
+   <license>
+     EPL 1.0
+   </license>
+
+   <plugin
+         id="com.xored.qs1957.view"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

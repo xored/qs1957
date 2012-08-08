@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="Q7 Bug views"
+            id="com.xored.qs1957.view">
+      </category>
+      <view
+            name="QS-1957"
+            icon="icons/sample.gif"
+            category="com.xored.qs1957.view"
+            class="com.xored.qs1957.view.QS1957View"
+            id="com.xored.qs1957.view.QS1957View">
+      </view>
+   </extension>
+
+</plugin>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sample view for QS-1957 bug
+Bundle-SymbolicName: com.xored.qs1957.view; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.xored.qs1957.view.internal.QS1957ViewPlugin
+Bundle-Vendor: xored Software, Inc.
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.forms
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy

@@ -1,0 +1,5 @@
+** Overview
+
+Sample View to reproduce [[http://jira4.xored.com/browse/QS-1957][QS-1957]] issue. Contains a table inside section with two columns. The first column has text cell editor, the second column shows list of possible values on mouse event. 
+
+Use =mvn clean package= to build an update site (=com.xored.qs1957.repository/target/repository/=) containing a feature with plugin to install this view into eclipse-based application. 
